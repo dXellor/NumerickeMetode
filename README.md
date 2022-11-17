@@ -1,0 +1,1 @@
+# Numericke metode implementirane u pythonu
